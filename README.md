@@ -102,16 +102,6 @@ To start the client application:
 2. Run the `main` method to start the client.
 3. Follow the on-screen prompts to interact with the blockchain.
 
-## 👨‍💻 Author
-
-Dhanush Venkataramu  
-Email: dhanushv@andrew.cmu.edu  
-AndrewID: dhanushv
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 This project has been an enriching journey into blockchain technology, server-client architectures, and data security. It showcases the practical application of theoretical concepts, making it a valuable learning experience.
